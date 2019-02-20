@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f5a9864-fa9b-4ceb-96b9-8a2d40107246" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lotto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/LottoTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Lotto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lotto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/LottoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/LottoTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -25,8 +25,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/LottoTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+            <state relative-caret-position="150">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -37,8 +37,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Lotto.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+            <state relative-caret-position="165">
+              <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -65,7 +65,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1213" />
     <option name="height" value="1027" />
@@ -123,13 +123,21 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550590916881" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550625189654" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="Lotto" />
     </key>
@@ -146,7 +154,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.LottoTest.createRandomLottoNum">
+  <component name="RunManager" selected="JUnit.LottoTest.lottoProgram">
     <configuration name="LottoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="tdd-study.tdd-study.test" />
       <option name="PACKAGE_NAME" value="" />
@@ -176,11 +184,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LottoTest.inputNum" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LottoTest.lottoProgram" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="tdd-study.tdd-study.test" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="LottoTest" />
-      <option name="METHOD_NAME" value="inputNum" />
+      <option name="METHOD_NAME" value="lottoProgram" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -198,11 +206,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.LottoTest.lottoProgram" />
         <item itemvalue="JUnit.LottoTest.createRandomLottoNum" />
         <item itemvalue="JUnit.LottoTest.test" />
         <item itemvalue="JUnit.LottoTest" />
         <item itemvalue="JUnit.LottoTest.createRandomUserLottoNum" />
-        <item itemvalue="JUnit.LottoTest.inputNum" />
       </list>
     </recent_temporary>
   </component>
@@ -220,9 +228,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="LottoTest_createRandomLottoNum - 2019.02.20 at 00h 36m 44s.xml">
-      <configuration name="LottoTest.createRandomLottoNum" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="LottoTest_createRandomLottoNum - 2019.02.20 at 00h 37m 28s.xml">
       <configuration name="LottoTest.createRandomLottoNum" configurationId="JUnit" />
     </history-entry>
@@ -250,12 +255,15 @@
     <history-entry file="LottoTest_createRandomLottoNum - 2019.02.20 at 00h 41m 47s.xml">
       <configuration name="LottoTest.createRandomLottoNum" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="LottoTest_lottoProgram - 2019.02.20 at 10h 12m 48s.xml">
+      <configuration name="LottoTest.lottoProgram" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1213" height="1027" extended-state="0" />
+    <frame x="0" y="23" width="1680" height="1027" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24294269" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17359413" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -265,7 +273,7 @@
       <window_info anchor="bottom" id="Messages" weight="0.32941177" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32941177" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32941177" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -345,15 +353,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Lotto.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+        <state relative-caret-position="165">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/LottoTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -412,7 +420,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>test|tdd-study.tdd-study</last-edited>
+          <last-edited>main|tdd-study.tdd-study</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
