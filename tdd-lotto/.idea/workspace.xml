@@ -3,8 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="6f5a9864-fa9b-4ceb-96b9-8a2d40107246" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Lotto.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Lotto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/LottoTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/LottoTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Lotto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lotto.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/LottoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/LottoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tdd-sample/.gradle/4.7/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../tdd-sample/.gradle/4.7/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tdd-sample/.gradle/4.7/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../tdd-sample/.gradle/4.7/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tdd-sample/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tdd-sample/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -21,29 +26,40 @@
     </projectState>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/LottoTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Lotto.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/test/java/LottoTest.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="315">
+                  <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/main/java/Lotto.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="314">
+                  <caret line="90" column="28" lean-forward="true" selection-start-line="90" selection-start-column="28" selection-end-line="90" selection-end-column="28" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -65,9 +81,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
-    <option name="width" value="1213" />
+    <option name="width" value="1249" />
     <option name="height" value="1027" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -77,6 +93,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -119,17 +136,16 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550625189654" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550758184326" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -207,9 +223,9 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.LottoTest.lottoProgram" />
+        <item itemvalue="JUnit.LottoTest" />
         <item itemvalue="JUnit.LottoTest.createRandomLottoNum" />
         <item itemvalue="JUnit.LottoTest.test" />
-        <item itemvalue="JUnit.LottoTest" />
         <item itemvalue="JUnit.LottoTest.createRandomUserLottoNum" />
       </list>
     </recent_temporary>
@@ -228,52 +244,51 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="LottoTest_createRandomLottoNum - 2019.02.20 at 00h 37m 28s.xml">
-      <configuration name="LottoTest.createRandomLottoNum" configurationId="JUnit" />
+    <history-entry file="LottoTest_lottoProgram - 2019.02.21 at 23h 03m 16s.xml">
+      <configuration name="LottoTest.lottoProgram" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LottoTest - 2019.02.20 at 00h 37m 44s.xml">
-      <configuration name="LottoTest" configurationId="JUnit" />
+    <history-entry file="LottoTest_lottoProgram - 2019.02.21 at 23h 03m 18s.xml">
+      <configuration name="LottoTest.lottoProgram" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LottoTest_createRandomLottoNum - 2019.02.20 at 00h 37m 53s.xml">
-      <configuration name="LottoTest.createRandomLottoNum" configurationId="JUnit" />
+    <history-entry file="LottoTest_lottoProgram - 2019.02.21 at 23h 03m 20s.xml">
+      <configuration name="LottoTest.lottoProgram" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LottoTest_createRandomLottoNum - 2019.02.20 at 00h 38m 25s.xml">
-      <configuration name="LottoTest.createRandomLottoNum" configurationId="JUnit" />
+    <history-entry file="LottoTest_lottoProgram - 2019.02.21 at 23h 03m 23s.xml">
+      <configuration name="LottoTest.lottoProgram" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LottoTest_createRandomLottoNum - 2019.02.20 at 00h 38m 42s.xml">
-      <configuration name="LottoTest.createRandomLottoNum" configurationId="JUnit" />
+    <history-entry file="LottoTest_lottoProgram - 2019.02.21 at 23h 03m 35s.xml">
+      <configuration name="LottoTest.lottoProgram" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LottoTest_createRandomLottoNum - 2019.02.20 at 00h 39m 43s.xml">
-      <configuration name="LottoTest.createRandomLottoNum" configurationId="JUnit" />
+    <history-entry file="LottoTest_lottoProgram - 2019.02.21 at 23h 03m 39s.xml">
+      <configuration name="LottoTest.lottoProgram" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LottoTest_test - 2019.02.20 at 00h 40m 11s.xml">
-      <configuration name="LottoTest.test" configurationId="JUnit" />
+    <history-entry file="LottoTest_lottoProgram - 2019.02.21 at 23h 03m 48s.xml">
+      <configuration name="LottoTest.lottoProgram" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LottoTest_createRandomLottoNum - 2019.02.20 at 00h 40m 33s.xml">
-      <configuration name="LottoTest.createRandomLottoNum" configurationId="JUnit" />
+    <history-entry file="LottoTest_lottoProgram - 2019.02.21 at 23h 03m 52s.xml">
+      <configuration name="LottoTest.lottoProgram" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LottoTest_createRandomLottoNum - 2019.02.20 at 00h 41m 47s.xml">
-      <configuration name="LottoTest.createRandomLottoNum" configurationId="JUnit" />
+    <history-entry file="LottoTest_lottoProgram - 2019.02.21 at 23h 03m 59s.xml">
+      <configuration name="LottoTest.lottoProgram" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LottoTest_lottoProgram - 2019.02.20 at 10h 12m 48s.xml">
+    <history-entry file="LottoTest_lottoProgram - 2019.02.21 at 23h 04m 10s.xml">
       <configuration name="LottoTest.lottoProgram" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="1027" extended-state="6" />
+    <frame x="0" y="23" width="1249" height="1027" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17359413" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.18276283" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.32941177" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32941177" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32861805" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -282,6 +297,7 @@
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Build" order="10" weight="0.32941177" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32861805" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -293,6 +309,37 @@
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="right" id="Key Promoter X" order="9" weight="0.32911393" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.18276283" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32861805" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Build" order="10" weight="0.32941177" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32861805" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Gradle" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Maven" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Key Promoter X" order="9" weight="0.32911393" />
+    </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/build.gradle">
@@ -312,24 +359,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Lotto/Lotto.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="16" lean-forward="true" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
-          <folding>
-            <element signature="e#70#71#0" expanded="true" />
-            <element signature="e#110#111#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="17" selection-start-column="17" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Lotto/Lotto.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/main.java" />
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/internal/builders/JUnit4Builder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -353,15 +384,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Lotto.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        <state relative-caret-position="314">
+          <caret line="90" column="28" lean-forward="true" selection-start-line="90" selection-start-column="28" selection-end-line="90" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/LottoTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="315">
+          <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

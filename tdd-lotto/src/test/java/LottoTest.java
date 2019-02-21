@@ -6,7 +6,7 @@ public class LottoTest {
     @Test
     public void lottoProgram() {
         Lotto lotto = new Lotto();
-        assertThat(lotto.lottoProgram(10).length).isEqualTo(7);
+        assertThat(lotto.lottoProgram(10000000L).length).isEqualTo(5);
     }
 
 //    @Test
