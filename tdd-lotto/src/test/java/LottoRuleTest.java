@@ -20,5 +20,4 @@ public class LottoRuleTest {
         LottoRule lottoRule = new LottoRule();
         assertThat(lottoRule.lottoMaxNumber).isEqualTo(45);
     }
-
 }
