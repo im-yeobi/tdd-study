@@ -1,5 +1,6 @@
 package tdd;
 
+import org.junit.Before;
 import org.junit.Test;
 
 import java.util.ArrayList;
@@ -11,7 +12,7 @@ public class BaseballNumbersTest {
 
     List<BaseballNumber> baseballNumber;
 
-    @Test
+    @Before
     public void setUp() {
         baseballNumber = new ArrayList<>();
         baseballNumber.add(new BaseballNumber(1));
